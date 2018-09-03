@@ -1,0 +1,7 @@
+/.idea/
+.*.iml
+/zoro-web/zoroweb.iml
+/zoro-parent.iml
+/zoro-service/zoroservice.iml
+/zoro-model/zoromodel.iml
+/zoro-dao/zorodao.iml
